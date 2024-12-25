@@ -1,0 +1,19 @@
+{
+  "userSet": {
+    "selected": {
+      "username": "RelizTehZon",
+      "type": "ely"
+    },
+    "list": [
+      {
+        "id": 5279525,
+        "username": "RelizTehZon",
+        "displayName": "RelizTehZon",
+        "uuid": "903edc1b-241d-406b-9cf7-81308a47bf1c",
+        "registeredAt": 1719646528,
+        "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJpYXQiOjE3MTk2NDY3MjUsImNsaWVudF9pZCI6InRsYXVuY2hlciIsInNjb3BlIjoib2J0YWluX293bl9hY2NvdW50X2luZm8gbWluZWNyYWZ0X3NlcnZlcl9zZXNzaW9uIiwic3ViIjoiZWx5fDUyNzk1MjUifQ.53q4DLBu3YXR2MIVhDj_klRCGBlRotXKHFjDizwnsVC-npynVR0RPMO2X1vwjeXFT8n981t9SBz_AXPHtEoT7A",
+        "type": "ely"
+      }
+    ]
+  }
+}

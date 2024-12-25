@@ -1,0 +1,95 @@
+debug = false
+disable_crowdin = false
+check_for_updates = true
+
+key_bindings = []
+
+
+
+[voice]
+disabled = false
+microphone_disabled = true
+activation_threshold = -30.0
+input_device = ""
+output_device = ""
+disable_input_device = false
+use_javax_input = false
+microphone_volume = 1.0
+noise_suppression = false
+volume = 2.0
+compressor_limiter = true
+sound_occlusion = false
+directional_sources = false
+hrtf = false
+stereo_capture = false
+
+[voice.volumes.source_b8e4bd9f-294e-3e7b-9d21-e05c9bcb0aae]
+volume = 1.0
+[voice.volumes.source_8f9b16fa-8895-4035-945b-59a592902ab2]
+volume = 1.0
+[voice.volumes.source_530c2978-5e97-43df-97ea-e116872e73cf]
+volume = 1.0
+[voice.volumes.source_2296c897-fa32-392f-9383-c40cc7c4e1c4]
+volume = 1.0
+[voice.volumes.source_00f4ba20-c8b8-3296-be1e-40f16ab3783f]
+volume = 1.0
+[voice.volumes.source_55e43278-3abe-3777-aa0e-ff3e2cb790a5]
+volume = 1.0
+[voice.volumes.source_d88588d5-5f94-3afb-b5ce-ac2bbed5e573]
+volume = 1.0
+[voice.volumes.source_6ab267f3-0995-3a4b-833b-1f6a9b3077d3]
+volume = 1.0
+[voice.volumes.source_d2ea2422-35b6-4944-bc59-5abd3bef70f8]
+volume = 1.0
+[voice.volumes.source_870b435f-bab7-342a-b9ab-7a83008dca6e]
+volume = 1.0
+[voice.volumes.source_63c7d680-d739-4c74-8f17-7e3564a5361d]
+volume = 1.0
+[voice.volumes.source_09b85384-7d7d-4b58-88a2-1af77d0b6484]
+volume = 1.0
+[voice.volumes.source_eb3f7a77-d27d-3e6f-90b7-bd63123e7359]
+volume = 1.0
+[voice.volumes.proximity]
+volume = 2.0
+[voice.volumes.source_66a70360-22cb-3928-a779-2c55bc880352]
+volume = 1.0
+[voice.volumes.source_fac1a609-c637-3a1e-b621-0f08971bf71a]
+volume = 1.0
+[voice.volumes.source_fec82b4d-919d-38cc-9f18-da19baf9d507]
+volume = 1.0
+[voice.volumes.source_6c469d64-f6f8-3635-a407-a2607d4a1eac]
+volume = 1.0
+[voice.volumes.source_90ce2fde-7310-3b0c-85ae-d0cb386a22bd]
+volume = 1.0
+[voice.volumes.source_09ac530f-3b1d-42a1-84cb-18ad43642c1e]
+volume = 1.0
+[voice.volumes.source_9409233a-7c13-4c86-81c2-feae447cd56c]
+volume = 1.0
+[voice.volumes.source_381edd18-238c-3b61-bffd-375395800c86]
+volume = 1.0
+[voice.volumes.source_7e325f90-3258-30c9-85fe-82911181405f]
+volume = 1.0
+
+[advanced]
+visualize_voice_distance = true
+visualize_voice_distance_on_join = false
+compressor_threshold = -10
+limiter_threshold = -6
+directional_sources_angle = 145
+stereo_sources_to_mono = false
+panning = true
+camera_sound_listener = true
+exponential_volume_slider = true
+exponential_distance_gain = true
+
+[overlay]
+show_activation_icon = true
+activation_icon_position = "BOTTOM_CENTER"
+show_source_icons = 0
+show_static_source_icons = true
+overlay_enabled = true
+overlay_position = "TOP_LEFT"
+overlay_style = "NAME_SKIN"
+
+[overlay.source_states]
+proximity = "OFF"

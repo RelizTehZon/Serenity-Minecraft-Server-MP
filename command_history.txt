@@ -1,0 +1,4 @@
+/register wrad3 wrad3
+/login wrad3
+/skin set Cam3lot
+/login wrad3
